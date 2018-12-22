@@ -1,0 +1,35 @@
+#main{
+    background-color:black;
+}
+.jumbotron
+{
+    background-color:black; 
+    font-family: "Orbitron", serif;
+    color: #f66a06; 
+    height: 280px;
+    
+}
+#pic{
+    /* float:right; */
+    position: relative;
+    top: -100px;
+    right: -900px;
+}
+.card-header{
+    color:white;
+}
+.card{
+    background-color:black; 
+    font-family: "Orbitron", serif;
+    color: #f66a06; 
+}
+.title{
+    color:white;
+}
+tbody{
+    font-family: "Orbitron", serif;
+    color: #f66a06;
+}
+#add-train{
+    background-color: #f66a06;
+}
